@@ -1,0 +1,9 @@
+{
+  "name": "travelling-enjoy",
+  "version": "1.0.0",
+  "description": "Aura Luxury Expeditions - Interactive Planetary Journey",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static site ready for deployment'"
+  }
+}
