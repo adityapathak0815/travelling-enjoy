@@ -8,3 +8,8 @@ desktop.ini
 .idea/
 *.swp
 *~
+
+# Archives and Large Unused Data Files
+*.zip
+frames_data.js
+aura-extracted/
